@@ -6,3 +6,4 @@ __pycache__
 *.egg-info/
 airflow.cfg
 unittests.cfg
+dags
