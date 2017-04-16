@@ -1,6 +1,6 @@
 from airflow.plugins_manager import AirflowPlugin
 
-from plugins.vent import operators
+from vent import operators
 
 
 class VentPlugin(AirflowPlugin):
