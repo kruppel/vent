@@ -3,11 +3,6 @@ __pycache__
 .tox/
 .coverage*
 .cache/
-__pycache__
-*.pyc
-.tox/
-.coverage*
-.cache/
 *.egg-info/
 airflow.cfg
 unittests.cfg
