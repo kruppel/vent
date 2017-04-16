@@ -1,7 +1,0 @@
-git+https://github.com/apache/incubator-airflow.git@master#egg=airflow[celery, crypto, webhdfs, hive, jdbc, postgres, s3, slack, password, github_enterprise]
-
-pytest
-pytest-cov
-
-tox
-tox-pyenv
